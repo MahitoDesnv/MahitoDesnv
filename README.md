@@ -44,6 +44,7 @@ const gustavo = {
         "MySQL"
     ]
 };
+```
 
 <br>
 
