@@ -5,11 +5,15 @@
 <div align="center">
 
 <a href="SEU_LINK_DO_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0614?style=for-the-badge&logo=linkedin&logoColor=A970FF" />
+  <img src="https://cdn.simpleicons.org/linkedin/A970FF" width="18px">
+  &nbsp; LINKEDIN
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://instagram.com/gustykye">
-  <img src="https://img.shields.io/badge/Instagram-0D0614?style=for-the-badge&logo=instagram&logoColor=A970FF" />
+  <img src="https://cdn.simpleicons.org/instagram/A970FF" width="18px">
+  &nbsp; INSTAGRAM
 </a>
 
 </div>
