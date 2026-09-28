@@ -2,22 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,50:6C2BD9,100:0D0614&height=180&section=header&text=Gustavo%20Olegario&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18&descColor=C9B6FF" width="100%"/>
 
-<div align="center">
+<p align="center">
 
 <a href="SEU_LINK_DO_LINKEDIN">
-  <img src="https://cdn.simpleicons.org/LinkedIn/A970FF" width="18">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="18">
   &nbsp; LINKEDIN
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/gustykye">
-  <img src="https://cdn.simpleicons.org/Instagram/A970FF" width="18">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/instagram.svg" width="18">
   &nbsp; INSTAGRAM
 </a>
 
-</div>
-
+</p>
 ---
 
 ## `> sobre mim`
