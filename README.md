@@ -17,6 +17,7 @@
 </a>
 
 </p>
+---
 ## `> sobre mim`
 
 Olá, eu sou **Gustavo Olegario**.
