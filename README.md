@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="SEU_LINK_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0D0614?style=for-the-badge&logo=linkedin&logoColor=A970FF" />
 </a>
 
