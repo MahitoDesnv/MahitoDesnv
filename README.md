@@ -30,16 +30,6 @@ Sou desenvolvedor Full Stack e gosto de transformar ideias em projetos reais atr
 
 Atualmente estudo e pratico diferentes tecnologias do desenvolvimento de software, buscando evoluir tanto na construção de interfaces quanto na lógica e estrutura das aplicações.
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,50:6C2BD9,100:0D0614&height=100&section=footer" width="100%"/>
-
-<sub>Construindo. Aprendendo. Evoluindo.</sub>
-
-</div>
-
 ```javascript
 const gustavo = {
     foco: "desenvolvimento",
@@ -55,3 +45,12 @@ const gustavo = {
     ]
 };
 
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,50:6C2BD9,100:0D0614&height=100&section=footer" width="100%"/>
+
+<sub>Construindo. Aprendendo. Evoluindo.</sub>
+
+</div>
