@@ -2,16 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,50:6C2BD9,100:0D0614&height=180&section=header&text=Gustavo%20Olegario&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18&descColor=C9B6FF" width="100%"/>
 
-<br>
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=900&color=A970FF&center=true&vCenter=true&width=600&height=45&lines=Desenvolvedor+Full+Stack;Transformando+ideias+em+c%C3%B3digo;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/MahitoDsnv">
-  <img src="https://img.shields.io/badge/GitHub-0D0614?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0614?style=for-the-badge&logo=linkedin&logoColor=A970FF" />
 </a>
 
 <a href="https://instagram.com/gustykye">
