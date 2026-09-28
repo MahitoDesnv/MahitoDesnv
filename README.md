@@ -5,14 +5,14 @@
 <div align="center">
 
 <a href="SEU_LINK_DO_LINKEDIN">
-  <img src="https://cdn.simpleicons.org/linkedin/A970FF" width="18px">
+  <img src="https://cdn.simpleicons.org/linkedin/A970FF" width="18" height="18">
   &nbsp; LINKEDIN
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/gustykye">
-  <img src="https://cdn.simpleicons.org/instagram/A970FF" width="18px">
+  <img src="https://cdn.simpleicons.org/instagram/A970FF" width="18" height="18">
   &nbsp; INSTAGRAM
 </a>
 
